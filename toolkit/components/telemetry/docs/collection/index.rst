@@ -30,4 +30,3 @@ The current data collection possibilities include:
    environment
    measuring-time
    custom-pings
-   *
